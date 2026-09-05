@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Devyansh0004/Practice-Skills/tree/master/0004-median-of-two-sorted-arrays) |
+| [3457-eat-pizzas](https://github.com/Devyansh0004/Practice-Skills/tree/master/3457-eat-pizzas) |
 ## Binary Search
 |  |
 | ------- |
@@ -23,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Devyansh0004/Practice-Skills/tree/master/0004-median-of-two-sorted-arrays) |
+## Greedy
+|  |
+| ------- |
+| [3457-eat-pizzas](https://github.com/Devyansh0004/Practice-Skills/tree/master/3457-eat-pizzas) |
+## Sorting
+|  |
+| ------- |
+| [3457-eat-pizzas](https://github.com/Devyansh0004/Practice-Skills/tree/master/3457-eat-pizzas) |
 <!---LeetCode Topics End-->
