@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Devyansh0004/Practice-Skills/tree/master/0004-median-of-two-sorted-arrays) |
 | [0200-number-of-islands](https://github.com/Devyansh0004/Practice-Skills/tree/master/0200-number-of-islands) |
+| [1030-matrix-cells-in-distance-order](https://github.com/Devyansh0004/Practice-Skills/tree/master/1030-matrix-cells-in-distance-order) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Devyansh0004/Practice-Skills/tree/master/1800-maximum-ascending-subarray-sum) |
 | [3457-eat-pizzas](https://github.com/Devyansh0004/Practice-Skills/tree/master/3457-eat-pizzas) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Devyansh0004/Practice-Skills/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1030-matrix-cells-in-distance-order](https://github.com/Devyansh0004/Practice-Skills/tree/master/1030-matrix-cells-in-distance-order) |
 | [3457-eat-pizzas](https://github.com/Devyansh0004/Practice-Skills/tree/master/3457-eat-pizzas) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Devyansh0004/Practice-Skills/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Enumeration
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Devyansh0004/Practice-Skills/tree/master/0200-number-of-islands) |
+| [1030-matrix-cells-in-distance-order](https://github.com/Devyansh0004/Practice-Skills/tree/master/1030-matrix-cells-in-distance-order) |
 ## Quickselect
 |  |
 | ------- |
@@ -65,9 +68,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1030-matrix-cells-in-distance-order](https://github.com/Devyansh0004/Practice-Skills/tree/master/1030-matrix-cells-in-distance-order) |
 | [3848-check-digitorial-permutation](https://github.com/Devyansh0004/Practice-Skills/tree/master/3848-check-digitorial-permutation) |
 ## Counting
 |  |
 | ------- |
 | [3848-check-digitorial-permutation](https://github.com/Devyansh0004/Practice-Skills/tree/master/3848-check-digitorial-permutation) |
+## Geometry
+|  |
+| ------- |
+| [1030-matrix-cells-in-distance-order](https://github.com/Devyansh0004/Practice-Skills/tree/master/1030-matrix-cells-in-distance-order) |
 <!---LeetCode Topics End-->
