@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Devyansh0004/Practice-Skills/tree/master/0004-median-of-two-sorted-arrays) |
 | [0200-number-of-islands](https://github.com/Devyansh0004/Practice-Skills/tree/master/0200-number-of-islands) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/Devyansh0004/Practice-Skills/tree/master/1800-maximum-ascending-subarray-sum) |
 | [3457-eat-pizzas](https://github.com/Devyansh0004/Practice-Skills/tree/master/3457-eat-pizzas) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Devyansh0004/Practice-Skills/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Binary Search
