@@ -61,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Devyansh0004/Practice-Skills/tree/master/3759-count-elements-with-at-least-k-greater-values) |
+## Math
+|  |
+| ------- |
+| [3848-check-digitorial-permutation](https://github.com/Devyansh0004/Practice-Skills/tree/master/3848-check-digitorial-permutation) |
+## Counting
+|  |
+| ------- |
+| [3848-check-digitorial-permutation](https://github.com/Devyansh0004/Practice-Skills/tree/master/3848-check-digitorial-permutation) |
 <!---LeetCode Topics End-->
