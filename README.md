@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1030-matrix-cells-in-distance-order](https://github.com/Devyansh0004/Practice-Skills/tree/master/1030-matrix-cells-in-distance-order) |
 | [3848-check-digitorial-permutation](https://github.com/Devyansh0004/Practice-Skills/tree/master/3848-check-digitorial-permutation) |
+| [3870-count-commas-in-range](https://github.com/Devyansh0004/Practice-Skills/tree/master/3870-count-commas-in-range) |
 ## Counting
 |  |
 | ------- |
