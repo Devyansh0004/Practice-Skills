@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1496-path-crossing](https://github.com/Devyansh0004/Practice-Skills/tree/master/1496-path-crossing) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Devyansh0004/Practice-Skills/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2937-make-three-strings-equal](https://github.com/Devyansh0004/Practice-Skills/tree/master/2937-make-three-strings-equal) |
 ## Simulation
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Devyansh0004/Practice-Skills/tree/master/0190-reverse-bits) |
+## Hash Table
+|  |
+| ------- |
+| [1496-path-crossing](https://github.com/Devyansh0004/Practice-Skills/tree/master/1496-path-crossing) |
 <!---LeetCode Topics End-->
