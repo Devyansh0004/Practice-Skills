@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Devyansh0004/Practice-Skills/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [2937-make-three-strings-equal](https://github.com/Devyansh0004/Practice-Skills/tree/master/2937-make-three-strings-equal) |
 ## Simulation
 |  |
 | ------- |
