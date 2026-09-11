@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-matrix-cells-in-distance-order](https://github.com/Devyansh0004/Practice-Skills/tree/master/1030-matrix-cells-in-distance-order) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Devyansh0004/Practice-Skills/tree/master/1800-maximum-ascending-subarray-sum) |
 | [3457-eat-pizzas](https://github.com/Devyansh0004/Practice-Skills/tree/master/3457-eat-pizzas) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Devyansh0004/Practice-Skills/tree/master/3483-unique-3-digit-even-numbers) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Devyansh0004/Practice-Skills/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Binary Search
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Devyansh0004/Practice-Skills/tree/master/1291-sequential-digits) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Devyansh0004/Practice-Skills/tree/master/3483-unique-3-digit-even-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1496-path-crossing](https://github.com/Devyansh0004/Practice-Skills/tree/master/1496-path-crossing) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Devyansh0004/Practice-Skills/tree/master/3483-unique-3-digit-even-numbers) |
 ## Tree
 |  |
 | ------- |
@@ -99,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Devyansh0004/Practice-Skills/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Devyansh0004/Practice-Skills/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
