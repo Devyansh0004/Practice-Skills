@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Devyansh0004/Practice-Skills/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Devyansh0004/Practice-Skills/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Array
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3457-eat-pizzas](https://github.com/Devyansh0004/Practice-Skills/tree/master/3457-eat-pizzas) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Devyansh0004/Practice-Skills/tree/master/3483-unique-3-digit-even-numbers) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Devyansh0004/Practice-Skills/tree/master/3759-count-elements-with-at-least-k-greater-values) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Devyansh0004/Practice-Skills/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-matrix-cells-in-distance-order](https://github.com/Devyansh0004/Practice-Skills/tree/master/1030-matrix-cells-in-distance-order) |
 | [3457-eat-pizzas](https://github.com/Devyansh0004/Practice-Skills/tree/master/3457-eat-pizzas) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Devyansh0004/Practice-Skills/tree/master/3759-count-elements-with-at-least-k-greater-values) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Devyansh0004/Practice-Skills/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Enumeration
 |  |
 | ------- |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3848-check-digitorial-permutation](https://github.com/Devyansh0004/Practice-Skills/tree/master/3848-check-digitorial-permutation) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Devyansh0004/Practice-Skills/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Geometry
 |  |
 | ------- |
@@ -94,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1496-path-crossing](https://github.com/Devyansh0004/Practice-Skills/tree/master/1496-path-crossing) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Devyansh0004/Practice-Skills/tree/master/3483-unique-3-digit-even-numbers) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Devyansh0004/Practice-Skills/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Tree
 |  |
 | ------- |
@@ -106,4 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Devyansh0004/Practice-Skills/tree/master/3483-unique-3-digit-even-numbers) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Devyansh0004/Practice-Skills/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+## Ordered Set
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Devyansh0004/Practice-Skills/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 <!---LeetCode Topics End-->
