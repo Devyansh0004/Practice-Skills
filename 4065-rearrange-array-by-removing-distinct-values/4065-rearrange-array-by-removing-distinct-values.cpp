@@ -1,20 +1,19 @@
 class Solution {
 public:
     vector<int> rearrangeArray(vector<int>& nums) {
-        vector<int>freq(101,0);
-        int n=nums.size();
-        for(int x:nums){
-            freq[x]++;
+        map<int,int>mp;
+        for(int num:nums){
+            mp[num]++;
         }
+        //can use simple vector this is alternate solution
         vector<int>ans;
-        int c=0;
-        while(c<n){
-            for(int i=0;i<101;i++){
-                if(freq[i]>0){
-                    freq[i]--;
-                    ans.push_back(i);
-                    c++;
-                }
+        while(!mp.empty()){
+            for(auto it=mp.begin();it!=mp.end();){
+                ans.push_back(it->first);
+                it->second--;
+
+                if(it->second==0) it=mp.erase(it);
+                else it++;
             }
         }
         return ans;
